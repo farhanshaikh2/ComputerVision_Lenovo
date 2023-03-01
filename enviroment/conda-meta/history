@@ -13,3 +13,10 @@
 +defaults/win-64::wheel-0.38.4-py38haa95532_0
 +defaults/win-64::wincertstore-0.2-py38haa95532_2
 # update specs: ['python==3.8']
+==> 2023-03-01 15:52:59 <==
+# cmd: C:\Users\farha\miniconda3\Scripts\conda-script.py install --prefix d:/Data_Science/Books/Master_opencv4/ComputerVision_Lenovo/enviroment autopep8 -y
+# conda version: 23.1.0
++defaults/noarch::autopep8-1.6.0-pyhd3eb1b0_1
++defaults/noarch::toml-0.10.2-pyhd3eb1b0_0
++defaults/win-64::pycodestyle-2.10.0-py38haa95532_0
+# update specs: ['autopep8']
